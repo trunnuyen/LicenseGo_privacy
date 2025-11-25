@@ -1,0 +1,1 @@
+# LicenseGo_privacy
